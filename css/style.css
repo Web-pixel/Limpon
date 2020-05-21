@@ -1,0 +1,106 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 26px;
+    color: #7581a1;
+}
+a {
+    text-decoration: none;
+}
+h1 {
+    font-size: 80px;
+    font-weight: 600;
+    color: #192b59;
+}
+.nav {
+    font-size: 12px;
+    font-weight: 700;
+    color: #6e7ea9;
+    text-transform: uppercase;
+}
+.btn-free {
+    color: #fff;
+    font-weight: 400;
+    background-color: #1085e4;
+}
+.grid h2 {
+    font-size: 40px;
+    color: #192b59;
+    font-weight: 700;
+}
+.grid h2 span {
+    font-size: 14px;
+    color: #1085e4;
+    display: block;
+}
+.grid-item h3 {
+    font-size: 20px;
+    font-weight: 600;
+    color: #192b59;
+}
+.grid-item a {
+    font-size: 14px;
+    font-weight: 600;
+    color: #1085e4;
+}
+.comment {
+    font-size: 14px;
+    color: #1085e4;
+}
+.comment span {
+    font-size: 16px;
+    font-weight: 600;
+    color: #192b59;
+}
+.page-sabscribe h2 {
+    font-size: 50px;
+    font-weight: 400;
+    color: #fff;
+}
+.page-sabscribe span {
+    font-size: 14px;
+    font-weight: 800;
+    color: #00bffe;
+    text-transform: uppercase;
+}
+.page-sabscribe p {
+    font-size: 18px;
+    font-weight: 400;
+    color: #fff;
+}
+.page-software h2 {
+    font-size: 50px;
+    font-weight: 400;
+    color: #192b59;
+}
+.dt {
+    font-size: 16px;
+    font-weight: 700;
+    color: #5a6789;
+}
+.page-stat h2 {
+    font-size: 50px;
+    font-weight: 400;
+    color: #192b59;
+}
+.fun {
+    display: block;
+    font-size: 16px;
+    font-weight: 800;
+    color: #1085e4;
+    text-transform: uppercase;
+}
+.stat {
+    display: block;
+    font-size: 60px;
+    font-weight: 700;
+    color: #bacbdc;
+}
+
+.page-stat li {
+    font-size: 12px;
+    font-weight: 700;
+    color: #1085e4;
+    text-transform: uppercase;
+}
+.page-app 
